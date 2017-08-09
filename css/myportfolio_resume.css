@@ -55,9 +55,9 @@ nav ul li {
     font-size:1em;
 }
 nav ul li:hover {
-	background-color:#66c1ad;
+	background-color:#ebbc12;
 	color:white;
-	transition: 0.3s all ease;
+	transition: 0.8s all ease;
 }
 
 nav ul li a {
@@ -75,7 +75,7 @@ hr {
 	clear:left;
 } 
 span.highlight {
-	background-color:#50e3c2;
+	background-color:#66c1ad;
 }
 
 div {
